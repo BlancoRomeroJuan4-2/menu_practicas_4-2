@@ -1,8 +1,8 @@
 function mostrarTareas(mes) {
   const tareas = {
     septiembre: [
-      { texto: 'HTML - CSS - JS -> AUDIO', url: 'https://placehold.co/600x400?text=Ejercicio: Audio' },
-      { texto: 'HTML - CSS - JS -> VIDEO', url: 'https://placehold.co/600x400?text=Ejercicio: Video' },
+      { texto: 'HTML - CSS - JS -> VIDEO', url: '/static/proyectos/P1Video4-2/video.html' },
+      { texto: 'HTML - CSS - JS -> AUDIO', url: '/static/proyectos/P2Audio4-2/audio.html' },
     ],
     octubre: [
       { texto: 'HTML - CSS - JS -> MULTIPLES IMÁGENES', url: 'https://placehold.co/600x400?text=Ejercicio: Multiples imágenes' },
